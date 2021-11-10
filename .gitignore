@@ -9,7 +9,5 @@ out/
 
 # Binaries
 **/bin/
-!vendor/premake/
-!XYZEngine/vendor/mono/bin
 bin-int/
 obj/
